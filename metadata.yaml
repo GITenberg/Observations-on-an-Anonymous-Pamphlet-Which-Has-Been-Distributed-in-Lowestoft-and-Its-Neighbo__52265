@@ -1,0 +1,28 @@
+_repo: Observations-on-an-Anonymous-Pamphlet-Which-Has-Been-Distributed-in-Lowestoft-and-Its-Neighbo__52265
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cunningham, Francis
+    birthdate: 1785
+    deathdate: 1863
+    gutenberg_agent_id: '39861'
+    url: http://www.gutenberg.org/2009/agents/39861
+description: 'See also #52042.'
+gutenberg_issued: '2016-06-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52265'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BV'
+- !lcsh 'British and Foreign Bible Society'
+- !lcsh 'Lockwood, Richard. Reasons why a Churchman may ... refuse to subscribe to
+  the British and Foreign Bible Society'
+- GITenberg
+title: Observations on an Anonymous Pamphlet, Which Has Been Distributed in Lowestoft,
+  and Its Neighbourhood, Entitled Reasons Why a Churchman May with Great Justice Refuse
+  to Subscribe to the British and Foreign Bible Society
+url: http://www.gutenberg.org/ebooks/52265
