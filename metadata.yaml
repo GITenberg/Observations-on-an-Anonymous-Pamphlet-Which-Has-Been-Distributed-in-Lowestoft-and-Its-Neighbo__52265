@@ -1,5 +1,8 @@
 _repo: Observations-on-an-Anonymous-Pamphlet-Which-Has-Been-Distributed-in-Lowestoft-and-Its-Neighbo__52265
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Cunningham, Francis
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '39861'
     url: http://www.gutenberg.org/2009/agents/39861
 description: 'See also #52042.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52265#Observations-on-an-Anonymous-Pamphlet-Which-Has-Been-Distributed-in-Lowestoft-and-Its-Neighbo_
 gutenberg_issued: '2016-06-07'
 gutenberg_type: Text
 identifiers:
